@@ -13,4 +13,4 @@ where `{PATH_TO_CONFIG}` is the path to the config file used for training.
 **To render a video**, you can create key frames in the Viewer and then find the command in the view then run it to create a video.
 
 ## How to download the dataset and the pretrained model?
-The model is uploaded to the BaiduNetDisk.
+The model is uploaded to the BaiduNetDisk. 链接: https://pan.baidu.com/s/1fls8hWtD_kx8Txzj6pUIwg 提取码: gjoh.
