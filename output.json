@@ -1,0 +1,17 @@
+{
+  "experiment_name": "chair_images",
+  "method_name": "nerfacto",
+  "checkpoint": "outputs/chair_images/nerfacto/2024-06-27_202049/nerfstudio_models/step-000029999.ckpt",
+  "results": {
+    "psnr": 22.548585891723633,
+    "psnr_std": 2.890469551086426,
+    "ssim": 0.8710269927978516,
+    "ssim_std": 0.022357577458024025,
+    "lpips": 0.30349206924438477,
+    "lpips_std": 0.045191168785095215,
+    "num_rays_per_sec": 1054389.5,
+    "num_rays_per_sec_std": 27292.982421875,
+    "fps": 2.0339303016662598,
+    "fps_std": 0.05264849588274956
+  }
+}

@@ -1,0 +1,2 @@
+ns-process-data video --data raw_video/train_vid.mp4 --eval-data eval_vid.mp4 --output-dir chair_images
+ns-train nerfacto --data chair_images --vis viewer+tensorboard nerfstudio-data --eval-mode filename

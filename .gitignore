@@ -1,0 +1,12 @@
+colmap.db
+colmap.db-shm
+colmap.db-wal
+
+raw_video/
+chair_images/
+src/
+other_videos/
+outputs/chair_images/nerfacto/2024-06-27_202049/nerfstudio_models/
+outputs/chair_images/nerfacto/2024-06-29_003307/
+outputs/chair_images/nerfacto/2024-06-27_202049/events.out.tfevents.1719592401.Dell-T640.881121.0
+renders/chair_images/
